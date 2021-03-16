@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-**Ya-kuku/Ya-kuku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Junki Kim (Ya-kuku)
 
 My major : Architectural Engineering
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
+
+💬 Ask me about wemanse@naver.com  or  wemanse@gmail.com
